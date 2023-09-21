@@ -173,7 +173,7 @@ $(function(){
 
     loader3.load(
         // resource URL
-        'https://d1a370nemizbjq.cloudfront.net/43fa9897-5289-405e-878d-22ed853fae68.glb', //paste avatar link here
+        'https://models.readyplayer.me/63dadac49b552e12bccbbef0.glb', //paste avatar link here
         // called when the resource is loaded
         function ( gltf ) {
 
